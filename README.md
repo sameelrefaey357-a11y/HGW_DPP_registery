@@ -50,4 +50,7 @@ Our DPP infrastructure is live, open-source, and operational on the Celo Sepolia
 * **License:** MIT (Open Source)
 
 ---
-*For more information, please contact Same Elrefaey at Same_elrefaey@icloud.com*
+*For more information, please contact Same
+ Elrefaey at Same_elrefaey@icloud.com*
+
+We have already deployed our MVP on the Celo blockchain and successfully registered our first Digital Product Passport, which you can verify via the transaction link below."
